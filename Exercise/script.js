@@ -7,6 +7,7 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("สุชานันท์ อ่อนศรีประไพ")
+    console.log("กมลภู อุตรพงศ์")
     
 }
 
